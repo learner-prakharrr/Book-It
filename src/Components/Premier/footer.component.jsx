@@ -99,7 +99,7 @@ export const Footer = () => {
   <span className="text-gray-500 text-sm block py-4">About Us | Contact Us | Current Opening | Press Release | Press Coverage | Sitemap | FAQs | Terms and Conditions | Privacy Policy</span>
 
   
-  <span className="font-bold text-gray-500 text-md block py-4">Book My Show Exclusives</span>
+  <span className="font-bold text-gray-500 text-md block py-4">Book-IT Exclusives</span>
   <span className="text-gray-500 text-sm block py-4">Lollapalooza India | Superstar | BookASmile | Corporate Vouchers | Gift Cards | List My Show | Offers | Stream | Trailers</span>
 
 
@@ -116,9 +116,9 @@ export const Footer = () => {
 <hr />
   
 
-  <div className="flex justify-center items-center py-10  ">
-  <img src="https://in.bmscdn.com/webin/common/icons/logo.svg" alt="" />
-</div>
+  {/* <div className="flex justify-center items-center  h-20 w-64 ml-1/2 mt-10 mb-10 background:none ">
+  <img  src="/booooook.jpeg" alt="" />
+</div> */}
 
 <div className='flex items-center justify-center '>
   <div className='h-10 w-10 px-2 py-2 text-gray text-navCol-50 hover:text-white cursor-pointer '> <RiFacebookCircleFill className='h-full w-full' /></div>
