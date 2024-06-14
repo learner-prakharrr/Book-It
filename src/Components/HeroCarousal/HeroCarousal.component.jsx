@@ -42,10 +42,10 @@ const settingsLg = {
 
     const images = [
      
-     "https://assets-in.bmscdn.com/promotions/cms/creatives/1706009026272_desktarget.jpg",
+     "https://assets-in.bmscdn.com/promotions/cms/creatives/1717080055549_playcardweb.jpg",
      "https://assets-in.bmscdn.com/promotions/cms/creatives/1704958137348_desklolla.jpg",
-     "https://assets-in.bmscdn.com/promotions/cms/creatives/1705670952930_wonkapredes.jpg",
-     "https://assets-in.bmscdn.com/promotions/cms/creatives/1705924928858_wardesk.jpg"
+     "https://assets-in.bmscdn.com/promotions/cms/creatives/1718009496414_summerweb1240x300.jpg",
+    //  "https://assets-in.bmscdn.com/promotions/cms/creatives/1705924928858_wardesk.jpg"
         
     ]
 
